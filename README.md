@@ -56,3 +56,8 @@ json
     }
   }
 }
+
+
+docker rm -f weather-mcp-service
+
+
